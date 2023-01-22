@@ -3,7 +3,7 @@
 The program consists of several main parts:
 
 1. Data processing
-   The data is sorted by the 'wilson_lower_bound' column and the _'Unnamed: 0'_ column is removed from the dataframe.⋅⋅
+   The data is sorted by the 'wilson_lower_bound' column and the _'Unnamed: 0'_ column is removed from the dataframe.
 
 2. Missing values analysis
    The _missing_values_analysis()_** function is used to check the number and percentage of missing values for each column in    the dataframe.
